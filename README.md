@@ -45,7 +45,7 @@ curl https://sh.rustup.rs -sSf | sh
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/townieradio.git
+git clone https://github.com/Striss/townie_radio
 cd townieradio
 ```
 
