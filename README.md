@@ -53,9 +53,3 @@ cd townie_radio
 ```bash
 cargo run
 ```
-### Build an optimized release version
-
-```bash
-cargo build --release
-./target/release/townieradio
-```
