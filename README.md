@@ -44,15 +44,18 @@ curl https://sh.rustup.rs -sSf | sh
 
 ### Clone the repository
 
-```git clone https://github.com/YOUR_USERNAME/townieradio.git
+```bash
+git clone https://github.com/YOUR_USERNAME/townieradio.git
 cd townieradio
 ```
 
 ### Run the app
-```cargo run
+```bash
+cargo run
 ```
 ### Build an optimized release version
 
-```cargo build --release
+```bash
+cargo build --release
 ./target/release/townieradio
 ```
