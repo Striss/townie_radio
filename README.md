@@ -40,17 +40,19 @@ You need:
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
+```
 
 ### Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/townieradio.git
+```git clone https://github.com/YOUR_USERNAME/townieradio.git
 cd townieradio
+```
 
 ### Run the app
-
-cargo run
-
+```cargo run
+```
 ### Build an optimized release version
 
-cargo build --release
+```cargo build --release
 ./target/release/townieradio
+```
