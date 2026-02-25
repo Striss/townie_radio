@@ -46,7 +46,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 ```bash
 git clone https://github.com/Striss/townie_radio
-cd townieradio
+cd townie_radio
 ```
 
 ### Run the app
